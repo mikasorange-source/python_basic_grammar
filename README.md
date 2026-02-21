@@ -1,0 +1,2 @@
+# python_basic_grammar
+ProgateでPython基礎文法編を学んで応用してみました。
