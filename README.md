@@ -1,4 +1,4 @@
-# python_basic_grammar
+# python_1_basic_grammar
 
 ProgateでPython基礎文法編を学んだ内容を応用して、日常の意思決定や業務ロジックを模したプログラムを2つ作成しました。
 
